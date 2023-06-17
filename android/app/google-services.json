@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65197092032",
+    "project_id": "todlearn-15a2e",
+    "storage_bucket": "todlearn-15a2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65197092032:android:75c60918425c0bbdaad125",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65197092032-j46fli36lpkh07ho35bbgi6ii5for0l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxTJhjcB-2V-kP1LQAPCi_LBcKuh8rZk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65197092032-j46fli36lpkh07ho35bbgi6ii5for0l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
